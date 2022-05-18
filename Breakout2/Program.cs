@@ -3,4 +3,4 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Breakout 2!");
 
-Console.WriteLine("Hey my name is Hamza, chiekie chiekie chiekie");
+Console.WriteLine("Hey my name is Hamza");
